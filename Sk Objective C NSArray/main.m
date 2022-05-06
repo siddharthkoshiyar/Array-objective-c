@@ -19,7 +19,7 @@ int main(int argc, const char * argv[]) {
         NSMutableArray *mArray = [[NSMutableArray alloc]init];
         
         [mArray addObject:@"Siddharth"];
-        
+        NSLog(@"hello");
         NSString *studentName = @"Tejas";
         
         [mArray addObject:studentName];
