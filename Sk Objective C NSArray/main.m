@@ -68,6 +68,15 @@ int main(int argc, const char * argv[]) {
         
         NSLog(@"%@",matrix);
         NSLog(@"%@",value);
+        NSLog(@"%@",matrix);
+        NSLog(@"%@",value);
+        NSLog(@"%@",matrix);
+        NSLog(@"%@",value);
+        NSLog(@"%@",matrix);
+        NSLog(@"%@",value);
+        NSLog(@"%@",matrix);
+        NSLog(@"%@",value);
+
         
     }
     return 0;
